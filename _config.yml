@@ -4,10 +4,10 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Khalid 
-middle_name: F
+middle_name: F.
 last_name: Alqahtani
 email: khalid.alqahtani@unh.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: PhD Candidate in applied mathematics >  # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: true 
 
 # -----------------------------------------------------------------------------
 # Layout
