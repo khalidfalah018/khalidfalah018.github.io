@@ -6,7 +6,7 @@ subtitle: <a href='#'> PhD candidate at the University of New Hampshire</a> #<a 
 
 profile:
   align: left #right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UNH </p>
