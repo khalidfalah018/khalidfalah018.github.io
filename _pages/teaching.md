@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 
 Applid Mathematics.
-1.
+1. 
 2.
 3.
 Pure Mathematics. 
