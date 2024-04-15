@@ -6,10 +6,10 @@ subtitle: <a href='#'> PhD candidate at the University of New Hampshire</a> #<a 
 
 profile:
   align: left #right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UNH </p>
+    <p>UNH</p>
    # <p>Durhame</p>
     <p>Durhame, NH 03824</p>
 
